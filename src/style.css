@@ -732,9 +732,7 @@
   input:checked+label+.ci~.ci {
     transform: translateX(100%);
   }
-  input:not(:checked)+label+.ci {
-   
-  } 
+
 
 /* footer */
   footer {
