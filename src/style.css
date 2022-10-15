@@ -201,9 +201,10 @@
       .about-content-text{    
         position: relative;
         z-index: 3;
-        left:30%;
+      
         padding-top: 5%;
-        padding-right:60%;
+        padding-left: 30%;
+        padding-right: 30%;
       }
         .about-content-text h3{
           color: rgba(191, 146, 91,1 );
@@ -347,7 +348,7 @@
     background-color: hsla(0, 0%, 20%, 1) ;
     justify-content: space-around;
     align-content: center;
-    width: 100%;
+    
     padding: 5%  5% 5% 
     }
     .footer h2 {
