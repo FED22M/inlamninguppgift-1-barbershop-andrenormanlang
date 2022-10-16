@@ -195,7 +195,7 @@
     }
       .about-content img{
         position: relative;
-        width:120%;
+        width:100%;
         left:90%;
       }
       .about-content-text{    
@@ -225,7 +225,7 @@
         align-items: center;
         background-color: rgba(191, 146, 91,1 ) ;
         margin-bottom: 15%;
-        width: 70%;
+        width: 80%;
         line-height: 60%;
         padding: 3%;
         }
@@ -405,7 +405,7 @@
       position: relative;
       } 
     .li-adressphone-col-4{
-      width: 40%;
+      width: 25%;
       }
     .nodesktop{
       display: none;
@@ -796,11 +796,12 @@
     padding-top: 5%;
   }
     .li-image-col-4 , .li-adressphone-col-4{ 
+
       display: inline-block;
       position: relative;
       }
     .li-adressphone-col-4{
-      width: 50%;  
+      width: 23%;  
       }
 
 }
